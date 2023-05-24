@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omoprincess85
 - 👀 I’m interested in how to create Dbot without lossing trade
 - 🌱 I’m currently learning from you
-- 💞️ I’m looking to collaborate on how to create binary bit
+- 💞️ I’m looking to collaborate on how to create binary bot
 - 📫 How to reach me is through my email: osemusi22@gmail.com
 
 <!---
